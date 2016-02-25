@@ -1,0 +1,7 @@
+name: DecTpSigns
+main: com.decstudios.programs.minecraft.tpsigns.DecTpSigns 
+version: 3.2
+commands:
+ dectp:
+  description: provides various commands for DecTpSigns
+  usage: Unknown command! Please type /dectp help for information on commands..or visit http://dev.bukkit.org/server-mods/dectpsigns/pages/help/

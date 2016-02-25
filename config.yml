@@ -1,0 +1,21 @@
+general:
+    oponly: false
+    checkallowed: false
+    tpcost: false
+    tpcostmat: 352
+allowedsigns:
+    hub: true
+    branch: true
+    point: true
+    pointjump: true
+    jump: true
+    worldbranch: true
+    worldpoint: true
+    worldjump: true
+    ophub: true
+    opbranch: true
+    opjump: true
+worldlist:
+    world: true
+    world_nether: true
+    world_the_end: true
